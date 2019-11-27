@@ -6,4 +6,5 @@
 <br>Time Comlexity :- O(nLogn) for  worst, average and best
 <br>Space Complexity :- O(n)
 <br>Refer example:- [Sorting_MergeSort.java](Sorting_MergeSort.java) 
+<br>Theory Refer:- [Click Here](https://www.baeldung.com/java-merge-sort)
 
