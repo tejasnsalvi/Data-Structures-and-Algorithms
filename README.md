@@ -4,6 +4,8 @@
 
 ## Sorting
 
+Chart Time and Space Complexity :- [Click Here]Sorting_Time_Sapce_Complexity.png)
+
 ### 1.Merge Sorting
 <br>Time Comlexity :- O(nLogn) for  worst, average and best
 <br>Space Complexity :- O(n)
