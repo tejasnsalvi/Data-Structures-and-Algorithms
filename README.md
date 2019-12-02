@@ -10,7 +10,7 @@ Chart Time and Space Complexity :- [Click Here](Sorting_Time_Sapce_Complexity.pn
 <br>Time Comlexity :- O(nLogn) for  worst, average and best
 <br>Space Complexity worst :- O(n)
 <br>Refer example:- [Sorting_MergeSort.java](Sorting_MergeSort.java) 
-<br>Theory Refer:- [Click Here](https://www.baeldung.com/java-merge-sort)
+<br>Theory Refer:- [Click Here](https://www.baeldung.com/java-merge-sort) & [Video Abdul Bari pt1](https://youtu.be/6pV2IF0fgKY),[Video Abdul Bari pt2](https://youtu.be/mB5HXBb_HY8)
 
 ### 1.Quick Sorting
 <br>Time Comlexity :- O(nLogn) average/best , worst:-O(n^2)
