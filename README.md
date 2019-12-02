@@ -22,4 +22,4 @@ Chart Time and Space Complexity :- [Click Here](Sorting_Time_Sapce_Complexity.pn
 <br>Time Comlexity :- O(n^2) average/worst , best:-omega(n)
 <br>Space Complexity worst :- O(1)
 <br>Refer example:- [Sorting_InsertionSort.java](Sorting_InsertionSort.java) 
-<br>Theory Refer:- [Click Here](https://www.geeksforgeeks.org/insertion-sort/)
+<br>Theory Refer:- [Click Here](https://www.geeksforgeeks.org/insertion-sort/) & [Video](https://youtu.be/BO145HIUHRg)
